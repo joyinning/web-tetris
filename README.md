@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 Web Tetris Game
 
 A modern, web-based Tetris game built with Flask and JavaScript. Play the classic puzzle game in your browser with beautiful graphics and smooth gameplay!
@@ -136,3 +137,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Enjoy playing Tetris! 🎮**
 
 *Built with ❤️ using Flask and JavaScript*
+=======
+# web-tetris
+>>>>>>> 5c4fe660c6c36ad9416ce5a4155fa06b5b2d4e7a
